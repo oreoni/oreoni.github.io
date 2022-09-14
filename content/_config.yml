@@ -47,7 +47,7 @@ parse:
 #######################################################################################
 # HTML-specific settings
 html:
-  announcement: To cite this work, please refer to our <a href="https://doi.org/10.1016/j.neuroimage.2022.119623">article</a> published in Neuroimage. # A banner announcement at the top of the site.
+  announcement: To cite this work, please refer to our <a href="https://doi.org/10.1016/j.neuroimage.2022.119623" style="color: lightgreen;text-decoration: underline;">article</a> published in Neuroimage. # A banner announcement at the top of the site.
   favicon                   : ""  # A path to a favicon image
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
