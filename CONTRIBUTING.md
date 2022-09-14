@@ -1,10 +1,26 @@
-# Contributing to the Open and REprOducible NeuroImaging book
+# Contributing to the Open and REprOducible NeuroImaging 
+
+## Adding a resource to the book
+
+Our list of resources is available [here]() but we may have missed some 
+or there may be some new ones that have appeared since the last update.
+
+If you want to add a resource to our resource list, please use [our form](https://github.com/oreoni/oreoni.github.io/issues/new?assignees=&labels=&template=feature_request.yml&title=%5BENH%5D+) to open an issue and we will get back to you.
+
+<!-- TODO a clear list of criterion to accept a new resource -->
 
 ## Building the book locally
 
 _Requirements_
 
 - Python
+
+Clone the reposity
+
+```bash
+git clone https://github.com/oreoni/oreoni.github.io.git
+cd oreoni
+```
 
 Install all the required packages:
 
